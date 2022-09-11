@@ -1,5 +1,7 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
-www.dio.me
+
+Desafio de código para o bootcamp da Dio, onde a partir de um código já iniciado, deveriam ser implementados os pontos listados abaixo. Além do solicitado, foi realizada uma formatação para exibir o valor das diárias em formato de moeda.
+
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
